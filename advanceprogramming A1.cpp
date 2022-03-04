@@ -16,21 +16,39 @@ int main()
 
 	  Creature creature(screen); 
 	creature.Animate();
+	Beep(573, 5000); 
+	Beep(350, 1000);
+	Beep(500, 2500);
 
 	  Creature02 creature02(screen);
 	creature02.Animate();
+	Beep(573, 5000); 
+	Beep(350, 1000);
+	Beep(500, 2500);
 
 	  Creature03 creature03(screen);
 	creature03.Animate();
+	Beep(573, 5000); 
+	Beep(350, 1000);
+	Beep(500, 2500);
 
 	  Creature04 creature04(screen);
 	creature04.Animate();
+	Beep(573, 5000); 
+	Beep(350, 1000);
+	Beep(500, 2500);
 
 	  Creature05 creature05(screen);
 	creature05.Animate();
+	Beep(573, 5000); 
+	Beep(350, 1000);
+	Beep(500, 2500);
 
 	  Creature06 creature06(screen);
 	creature06.Animate();
+	Beep(573, 5000); 
+	Beep(350, 1000);
+	Beep(500, 2500);
 
 	return 0;
 }
